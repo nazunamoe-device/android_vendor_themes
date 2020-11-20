@@ -38,50 +38,6 @@ PRODUCT_PACKAGES += \
     Retro \
     Stockish \
     Narrow
-	
-# Accents
-PRODUCT_PACKAGES += \
-    BrownAccent \
-    TealAccent \
-    BlackAccent \
-    YellowAccent \
-    RedAccent \
-    PurpleAccent \
-    PinkAccent \
-    OrangeAccent \
-    GreenAccent \
-    WhiteAccent \
-    CyanAccent \
-    ObfusBleu \
-    NotImpPurple \
-    Holillusion \
-    MoveMint \
-    AlmostProBlue \
-    BubblegumPink \
-    FrenchBleu \
-    Stock \
-    ManiaAmber \
-    DrownedAquaBlue \
-    BoucheRed \
-    DreamyPurple \
-    GrapesPurple \
-    SpookedPurple \
-    MisleadingRed \
-    FSRGrey \
-    HeirloomBleu \
-    LunaBlue \
-    WarmthOrange \
-    NaturedGreen \
-    ColdBleu \
-    DiffDayGreen \
-    DuskPurple \
-    BurningRed \
-    SimilarDawnRed \
-    SpoofyGreen \
-    NewHouseOrange \
-    LimedGreen \
-    SunsetOrange \
-    UiGradientsDIMIGO
 
 # QS tile styles
 PRODUCT_PACKAGES += \
