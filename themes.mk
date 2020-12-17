@@ -109,11 +109,11 @@ PRODUCT_PACKAGES += \
     StatusBar-Large \
     StatusBar-Medium \
     StatusBar-MediumLarge \
-	UiStyleNoCornerRadius \
+    UiStyleDefault \
     UiStyleRoundLarge \
-    UiStyleRoundMedium  \
-    UiStyleRectangle \
-    UiStyleSmall
+    UiStyleRoundMedium \
+    UiStyleNoCornerRadius \
+    UiStyleRectangle 
 	
 PRODUCT_COPY_FILES += \
     vendor/themes/fonts/Aclonica/Aclonica.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Aclonica.ttf \
