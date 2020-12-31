@@ -39,41 +39,33 @@ PRODUCT_PACKAGES += \
     Stockish \
     Narrow
 
-# QS tile styles
+# Panel Background
 PRODUCT_PACKAGES += \
-    QSTileDefault \
-    QSTileCircleTrim \
-    QSTileCircleDualTone \
-    QSTileCircleGradient \
-    QSTileCookie \
-    QSTileDottedCircle \
-    QSTileDualToneCircle \
-    QSTileInk \
-    QSTileInkdrop \
-    QSTileMountain \
-    QSTileNinja \
-    QSTileOreo \
-    QSTileOreoCircleTrim \
-    QSTileOreoSquircleTrim \
-    QSTilePokesign \
-    QSTileSquaremedo \
-    QSTileSquircle \
-    QStileBadgetwo \
-    QSTileSquircleTrim \
-    QSTileTeardrop \
-    QStileDiamond \
-    QStileHexagon \
-    QStileSquare \
-    QSTileWavey \
-    QStileGear \
-    QStileStar \
-    QStileBadge \
-    QStileNeonlike \
-    QStileOOS \
-    QStileTriangles \
-    QStileDivided \
-    QStileCosmos \
-    QStileRoundedRect
+    PanelBgBatik \
+    PanelBgKece \
+    PanelBgOutline
+
+# Qs shape
+PRODUCT_PACKAGES += \
+    QsShapeA \
+    QsShapeB \
+    QsShapeC \
+    QsShapeD \
+    QsShapeE \
+    QsShapeF \
+    QsShapeG \
+    QsShapeH \
+    QsShapeI \
+    QsShapeJ \
+    QsShapeK \
+    QsShapeL \
+    QsShapeM \
+    QsShapeN \
+    QsShapeO \
+    QsShapeP \
+    QsShapeQ \
+    QsShapeR \
+    QsShapeS 
     
 # Notification themes
 PRODUCT_PACKAGES += \
