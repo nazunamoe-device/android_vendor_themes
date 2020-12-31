@@ -45,27 +45,26 @@ PRODUCT_PACKAGES += \
     PanelBgKece \
     PanelBgOutline
 
-# Qs shape
+# QS tile styles
 PRODUCT_PACKAGES += \
-    QsShapeA \
-    QsShapeB \
-    QsShapeC \
-    QsShapeD \
-    QsShapeE \
-    QsShapeF \
-    QsShapeG \
-    QsShapeH \
-    QsShapeI \
-    QsShapeJ \
-    QsShapeK \
-    QsShapeL \
-    QsShapeM \
-    QsShapeN \
-    QsShapeO \
-    QsShapeP \
-    QsShapeQ \
-    QsShapeR \
-    QsShapeS 
+    QStileCircleTrim \
+    QStileDefault \
+    QStileDualToneCircle \
+    QStileSquircleTrim \
+    QStileAttemptMountain \
+    QStileDottedCircle \
+    QStileNinja \
+    QStilePokesign \
+    QStileWavey \
+    QStileCookie \
+    QStileInkDrop \
+    QStileSquaremedo \
+    QStileCosmos \
+    QStileDividedCircle \
+    QStileNeonLight \
+    QStileOxygen \
+    QStileTriangles \
+    QStileCircleOutline
     
 # Notification themes
 PRODUCT_PACKAGES += \
