@@ -19,6 +19,11 @@
 
     <!-- The background color of a notification card. -->
     <color name="notification_material_background_color">#80000000</color>
+	
+	<!-- Settings Homepage Stupidity -->
+    <color name="cherish_homepage_background">#66000000</color>
+    <color name="cherish_homepage_icon_background">#66000000</color>
+    <color name="tl_preference_divider_bg">#66000000</color>
 
     <color name="theme_generic_semi_transparent_color">#80000000</color>
     <!-- Resolver -->
