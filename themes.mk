@@ -80,7 +80,14 @@ PRODUCT_PACKAGES += \
     BrightnessSliderMemeMini \
     BrightnessSliderMemeRound \
     BrightnessSliderMemeRoundStroke \
-    BrightnessSliderMemeStroke
+    BrightnessSliderMemeStroke \
+    BrightnessSliderMemeStrokeGradient \
+    BrightnessSliderRoundStrokeGradient \
+    BrightnessSliderRoundGradient \
+    BrightnessSliderMiniGradient \
+    BrightnessSliderHalfGradient \
+    BrightnessSliderMiniHalf \
+    BrightnessSliderFlat
 	
 # NavBar themes
 PRODUCT_PACKAGES += \
