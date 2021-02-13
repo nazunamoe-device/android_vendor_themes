@@ -87,7 +87,8 @@ PRODUCT_PACKAGES += \
     BrightnessSliderMiniGradient \
     BrightnessSliderHalfGradient \
     BrightnessSliderMiniHalf \
-    BrightnessSliderFlat
+    BrightnessSliderFlat \
+    BrightnessSliderOOS
 	
 # NavBar themes
 PRODUCT_PACKAGES += \
