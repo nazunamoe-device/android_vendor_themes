@@ -102,7 +102,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     GesturalNavigationOverlayLong \
     GesturalNavigationOverlayMedium \
-    GesturalNavigationOverlayHidden
+    GesturalNavigationOverlayHidden \
+    GesturalNavigationRadiusLow \
+    GesturalNavigationRadiusVeryLow \
+    GesturalNavigationRadiusHidden
 	
 # UI Styles
 PRODUCT_PACKAGES += \
