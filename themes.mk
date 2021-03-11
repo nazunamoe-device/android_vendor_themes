@@ -66,7 +66,13 @@ PRODUCT_PACKAGES += \
     QStileOxygen \
     QStileTriangles \
     QStileCircleOutline
-    
+
+  # GVM
+PRODUCT_PACKAGES += \
+    GVM-PGM-ORCD \
+    GVM-PGM-OPRD \
+    GVM-PGM-PURP
+	
 # Notification themes
 PRODUCT_PACKAGES += \
     NotificationBlackTheme \
