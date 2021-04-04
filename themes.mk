@@ -66,6 +66,10 @@ PRODUCT_PACKAGES += \
     QStileTriangles \
     QStileCircleOutline
 
+# QS Color Overlay
+PRODUCT_PACKAGES += \
+    QsColor
+
   # GVM
 PRODUCT_PACKAGES += \
     GVM-PGM-ORCD \
