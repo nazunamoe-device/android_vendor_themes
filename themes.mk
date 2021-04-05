@@ -31,14 +31,13 @@ PRODUCT_PACKAGES += \
 	
 # Switch themes
 PRODUCT_PACKAGES += \
-    Stock \
-    OnePlus \
-    Narrow \
-    Contained \
-    Telegram \
+    SwitchMD2 \
+    SwitchOnePlus \
+    SwitchStock \
+	Contained \
     Retro \
-    MD2 \
-    Stockish
+    Stockish \
+    Narrow
 
 # Panel Background
 PRODUCT_PACKAGES += \
